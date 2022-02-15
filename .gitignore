@@ -1,6 +1,7 @@
 *.mp4
 *.gif
 *.dat
+*.txt
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 Semana2/.DS_Store

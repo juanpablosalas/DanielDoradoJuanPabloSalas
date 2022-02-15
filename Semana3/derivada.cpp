@@ -18,7 +18,7 @@ int main(){
 
 	File = new std::ofstream[2]; // Reservamos memoria
 
-	File[0].open( "derivada.dat", std::ofstream::trunc ); // Abrir y dejar listo para escribir
+	File[0].open( "derivada.txt", std::ofstream::trunc ); // Abrir y dejar listo para escribir
 
 	std::cout << File  << std::endl;
 
